@@ -1,7 +1,6 @@
 import React, { Component } from "react";
 import { StyleSheet, ScrollView, TextInput, Text, TouchableOpacity, Alert } from 'react-native';
 import { TextInputLayout } from 'rn-textinputlayout';
-// import styles from '../styles/login.css'
 import axios from 'axios'
 import Logo from "./logo";
  
