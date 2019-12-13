@@ -10,7 +10,6 @@ import {
 import { createMaterialBottomTabNavigator } from 'react-navigation-material-bottom-tabs'
 import Icon from 'react-native-vector-icons/Ionicons'
 import { albums,comments,todos } from '../networks/networkcalls';
-// import { Button } from "react-native-paper";
 
 class HomeScreen extends Component {
   constructor(props) {
